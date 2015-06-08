@@ -6,25 +6,22 @@
         "Loader plugins"
     ],
     "main": "text.js",
-    "github": "https://github.com/requirejs/text",
+    "github": "https://github.com/ArekOsiewicz/requirejs-text.i18n",
     "bugs": {
-        "web": "https://github.com/requirejs/text/issues"
+        "web": "https://github.com/ArekOsiewicz/requirejs-text.i18n/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/requirejs/text.git"
+        "url": "https://github.com/ArekOsiewicz/requirejs-text.i18n.git"
     },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "http://www.opensource.org/licenses/mit-license.php"
-        },
-        {
-            "type": "BSD New",
-            "url": "http://opensource.org/licenses/BSD-3-Clause"
-        }
-    ],
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/mit-license.php"
+    }, {
+        "type": "BSD New",
+        "url": "http://opensource.org/licenses/BSD-3-Clause"
+    }],
     "volo": {
-        "url": "https://raw.github.com/requirejs/text/{version}/text.js"
+        "url": "https://github.com/ArekOsiewicz/requirejs-text.i18n/{version}/text.js"
     }
 }
