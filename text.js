@@ -1,5 +1,5 @@
 /**
- * @license RequireJS text 2.0.14 Copyright (c) 2010-2014, The Dojo Foundation All Rights Reserved.
+ * @license RequireJS text 2.0.15 Copyright (c) 2010-2014, The Dojo Foundation All Rights Reserved.
  * Available via the MIT or new BSD license.
  * see: http://github.com/requirejs/text for details
  */
@@ -23,7 +23,7 @@ define(['module', 'require', 'requirejs-i18n!../../locale/nls/strings'], functio
         masterConfig = (module.config && module.config()) || {};
 
     text = {
-        version: '2.0.14',
+        version: '2.0.15',
 
         strip: function(content) {
             //Strips <?xml ...?> declarations so that external SVG and XML
